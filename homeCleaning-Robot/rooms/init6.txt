@@ -1,0 +1,5 @@
+xxxxxxxxxxxx
+xc 1       x
+x  1 1 x   x
+x      x11 x
+xxxxxxxxxxxx
